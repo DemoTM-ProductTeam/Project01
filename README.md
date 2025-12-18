@@ -23,6 +23,22 @@ The project transforms raw market and sales data into **actionable business insi
 
 ---
 
+## 📈 Key Insights (Sample)
+- The Vietnamese dairy market shows **steady long-term growth**, driven primarily by **urban consumption**.
+- **Fresh milk and yogurt** segments demonstrate faster growth compared to traditional milk powder.
+- Clear **seasonal demand patterns** suggest opportunities for optimized production and inventory planning.
+- Price sensitivity varies significantly across product categories.
+
+---
+
+## 💡 Business Recommendations
+- Prioritize investment in **high-growth dairy segments**
+- Adjust **pricing and promotion strategies** based on seasonal demand
+- Optimize **supply chain planning** using demand trend insights
+- Leverage data analytics for continuous market monitoring
+
+---
+
 ## 🧠 Analytical Approach
 - **Data Cleaning & Preparation**  
   Handle missing values, outliers, and inconsistent records
@@ -43,20 +59,3 @@ The project transforms raw market and sales data into **actionable business insi
 - **GitHub** for version control and project documentation
 
 ---
-
-## 📈 Key Insights (Sample)
-- The Vietnamese dairy market shows **steady long-term growth**, driven primarily by **urban consumption**.
-- **Fresh milk and yogurt** segments demonstrate faster growth compared to traditional milk powder.
-- Clear **seasonal demand patterns** suggest opportunities for optimized production and inventory planning.
-- Price sensitivity varies significantly across product categories.
-
----
-
-## 💡 Business Recommendations
-- Prioritize investment in **high-growth dairy segments**
-- Adjust **pricing and promotion strategies** based on seasonal demand
-- Optimize **supply chain planning** using demand trend insights
-- Leverage data analytics for continuous market monitoring
-
----
-
