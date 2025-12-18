@@ -60,12 +60,3 @@ The project transforms raw market and sales data into **actionable business insi
 
 ---
 
-## 📂 Project Structure
-```text
-Project01/
-│
-├── data/               # Raw & processed datasets
-├── notebooks/          # Jupyter notebooks for analysis
-├── visuals/            # Charts and visual outputs
-├── README.md           # Project documentation
-└── requirements.txt    # Python dependencies
